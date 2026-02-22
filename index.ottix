@@ -1,9 +1,9 @@
 array|1.0.0|https://github.com/cocomeshy/otter-array.git|7f3f2fb4c1f143d9889425e23920b0c6d4588261|sha256:88827789907345dc52e00318e25fb133084a1e8e0e668e5bc8b2724fef2ff845
 async|1.0.0|https://github.com/cocomeshy/otter-async.git|5612bf28991972075890b89517dd18e410e8e3e5|sha256:b633370fb174e91e1b83723ff7968c5a91821d3a68d3455318fe5041ba274c12
-format|1.0.0|https://github.com/cocomeshy/otter-format.git|909672e772a1c6176638b87c414a4a9c81d652b8|sha256:a3e4dbd9d5d5e090aa73620d18153345a3b6e655dfaae7c8e78396c889c3180b
+format|1.0.0|https://github.com/cocomeshy/otter-format.git|c0f1c4dad3018c3e863ff13c024c1b159d857328|sha256:a3e4dbd9d5d5e090aa73620d18153345a3b6e655dfaae7c8e78396c889c3180b
 io|1.0.0|https://github.com/cocomeshy/otter-io.git|5361f051f20219da01fc018fc1e12a709a360440|sha256:416ab144ee3b2b2861838bfc079507d7ab4b8a2a86bcf6993706f22ecb4e4c7d
 memory|1.0.0|https://github.com/cocomeshy/otter-memory.git|25ca08f3d4626ebdba5986f7d01e97f170659e40|sha256:11b8abf4bebb9fc12596a025f9a5159e5fe3a6319cb8e14f9158b5d406e5a7ef
-os|1.0.0|https://github.com/cocomeshy/otter-os.git|56e713bb710ed1796db4c60041e780a4b48b8537|sha256:4adab70c886244a628202a6d7398862e5eae9925a01bd66dd95aebe6130f15eb
-test|1.0.0|https://github.com/cocomeshy/otter-test.git|0a5d73417b735cac2a8df5ee1f621362ca0ac2c0|sha256:50dbad15c8e89d0911d2ee65af676eede44056c07f5d112d93e2d1fdce6eb6c5
+os|1.0.0|https://github.com/cocomeshy/otter-os.git|26859ca7fce576c89fa3a48238f79206ea393264|sha256:4adab70c886244a628202a6d7398862e5eae9925a01bd66dd95aebe6130f15eb
+test|1.0.0|https://github.com/cocomeshy/otter-test.git|1ec97f34fac6b57ce44678070e07c1aebf887670|sha256:50dbad15c8e89d0911d2ee65af676eede44056c07f5d112d93e2d1fdce6eb6c5
 thread|1.0.0|https://github.com/cocomeshy/otter-thread.git|5353017f2557fbdb30024bb4b32f9a79a06d4177|sha256:015e5593da2234af804d5a7718eb644da78cfc3430433bea1c5a657958627977
-time|1.0.0|https://github.com/cocomeshy/otter-time.git|385c965de4f297c6747a8cc1c4aa63d1af0bab4c|sha256:ebef44eff7b64dfae467714cbfdb74d605c1eedbe7fb028b2289c8af4a3017f4
+time|1.0.0|https://github.com/cocomeshy/otter-time.git|fe4fe8370ddbd717efd4fd6eeff08e0cf2f584dd|sha256:ebef44eff7b64dfae467714cbfdb74d605c1eedbe7fb028b2289c8af4a3017f4
