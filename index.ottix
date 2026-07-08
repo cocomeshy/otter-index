@@ -7,3 +7,7 @@ os|1.0.0|https://github.com/cocomeshy/otter-os.git|2f52e1a3b45a1bbb61401d176b99e
 test|1.0.0|https://github.com/cocomeshy/otter-test.git|a4d07a4bfaf1925cfee3224a6eca8fc7c07f73b6|sha256:0a640c5f14a688aef210e4b405e9047d1fa33dc91c619f7b095b14ec2fa5fbc7
 thread|1.0.0|https://github.com/cocomeshy/otter-thread.git|ff723747cb33e96b0142bc1195cf5b220e73acd4|sha256:63de74081a9240d4f676e26bc13a7bfddccea75b37f9ef15340b31aee49bddbe
 time|1.0.0|https://github.com/cocomeshy/otter-time.git|a32e3f8dc916327c448e6d5884693bedb85686fa|sha256:98dfa7cdbe65be2fcd84100a9d2f24f53838c9c90789c3e82c389cc02f92c0fe
+env|1.0.0|https://github.com/cocomeshy/otter-env.git|5a532e78ee0bb50278f890c43560bd27637e8bef|sha256:db07bfc06b1870475bfb844008b087dfabc685ad052461f2214270243b87473e
+fs|1.0.0|https://github.com/cocomeshy/otter-fs.git|f5742f1582343cd3c0588f7ae618411047c859b1|sha256:862dcb511bff807abbca414055e0d604000acdb5baaec1d313388ad0cf1a0d31
+panic|1.0.0|https://github.com/cocomeshy/otter-panic.git|ff2a77e7a86a86de86c91b5026faea4727bf0675|sha256:a553a14f1e86c4b33152da1d9da664d478e0c8bee52a414c1a58a6dc82371dbe
+testing|1.0.0|https://github.com/cocomeshy/otter-testing.git|a168bd8b23b394d838e3ce87ac81aaf128ad4cc4|sha256:633986be33bab7ac793d4becf7f3ef08b736d77b9901a9b4f289f3f2793e2d2f
