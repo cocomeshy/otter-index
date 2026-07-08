@@ -1,7 +1,7 @@
 array|1.0.0|https://github.com/cocomeshy/otter-array.git|228b70966d002caac4629b8a867056ac6d753b48|sha256:bb82a3dc707aa89a8b1acb0e88e6c1bb5b0e335b821cab1397d1244959683b5d
 async|1.0.0|https://github.com/cocomeshy/otter-async.git|cf492731819733d387ea079bf8e9eedae7ab6c9a|sha256:7d6e11006b5b05d3d0630dfc3651320ef7ccf47e25060494767cebb91f2ebb30
 format|1.0.0|https://github.com/cocomeshy/otter-format.git|8c67ec7dc05cd7d50f84cb1791a6fe6479c7252b|sha256:2d28fd2bb80eb600ad8e53a1ee25f1f5b7ed1c8366b43efddce5f2e90ec13ec4
-io|1.0.0|https://github.com/cocomeshy/otter-io.git|5507db9559cd046edd59636b8e0910e068707a78|sha256:9398e9f2587f1ed708f8e3cf35f48857dfcf487707f258fea89aaa6a38bd926e
+io|1.0.0|https://github.com/cocomeshy/otter-io.git|cc42466367d1cbdedfe202125f76ca180cb3a3a1|sha256:0986f2ccc78e3942a7d5e3efb274a9fd4ddb823bb08d10792adaee2b36ec1a90
 memory|1.0.0|https://github.com/cocomeshy/otter-memory.git|b5b66e88ecf53333edc902a91ddcb21a8bbc502b|sha256:f4fa3b0d80cf98cea645912925d4a6d39ca0c2a6ecc5d5b379d240c671b4c8e5
 os|1.0.0|https://github.com/cocomeshy/otter-os.git|2f52e1a3b45a1bbb61401d176b99e513c1d8883d|sha256:3d52cb2ac94fd0836e9564fb3755423605d99277b6862db7256ff7d519fc2c6e
 test|1.0.0|https://github.com/cocomeshy/otter-test.git|a4d07a4bfaf1925cfee3224a6eca8fc7c07f73b6|sha256:0a640c5f14a688aef210e4b405e9047d1fa33dc91c619f7b095b14ec2fa5fbc7
